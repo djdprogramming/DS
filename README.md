@@ -5,7 +5,7 @@
 
 ## Tier 0 - prep
 - [ ]  Course: [Question Everything: Scientific Thinking in Real Life](https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-1) 
-- [ ]  Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
+- [ ]  Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
 - [ ]  Course: [Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
 - [ ]  Course Series: [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
