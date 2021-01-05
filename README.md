@@ -1,6 +1,8 @@
 # Data Science
 ##### Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence.
 
+###### Thank you P1xt
+
 ## Tier 0 - prep
 - [ ]  Course: [Question Everything: Scientific Thinking in Real Life](https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-1) 
 - [ ]  Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
