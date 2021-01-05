@@ -3,7 +3,7 @@
 
 ###### Thank you P1xt!
 
-## Tier 0 - prep
+## Tier 0 - Prep
 - [ ]  Course: [Question Everything: Scientific Thinking in Real Life](https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-1) 
 - [ ]  Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
 - [ ]  Course: [Precalculus](https://www.khanacademy.org/math/precalculus)
@@ -15,7 +15,7 @@
 - [ ]  Project: Complete one [Bot Programming Competition on CodinGame](https://www.codingame.com/multiplayer/bot-programming)
 
 
-## Tier 1 - foundations
+## Tier 1 - Foundations
 - [ ]  Course: [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 - [ ]  Course: [MM220P: MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
@@ -40,7 +40,7 @@
 - [ ]  Project: Complete [Deep Learning - TensorFlow on CodinGame](https://www.codingame.com/ide/puzzle/deep-learning-tensorflow)
 
 
-## Tier 2 - develop more expertise
+## Tier 2 - Develop More Expertise
 - [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about)
 - [ ]  Book: [Biology](https://openstax.org/details/books/biology) 
 - [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
@@ -67,7 +67,7 @@
 - [ ]  Project: Complete one competition of your choice  from [Crowd Analytix](https://www.crowdanalytix.com/community)
 - [ ]  Project: Complete one [Bot Programming Competition on CodinGame](https://www.codingame.com/multiplayer/bot-programming)
 
-## Tier 3 - add more rigor
+## Tier 3 - Add More Rigor
 - [ ]  Course: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 - [ ]  Course: [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 - [ ]  Book: [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
@@ -91,7 +91,7 @@
 - [ ]  Project: Complete one competition of your choice  from [Crowd Analytix](https://www.crowdanalytix.com/community)
 - [ ]  Project: Complete one competition of your choice  from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
 
-## Tier 4 - practical applications
+## Tier 4 - Practical Applications
 
 - [ ]  Book: [Machine Learning with R](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf) 
 - [ ]  Course: [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-harvardx-ph525-1x-0)
@@ -116,7 +116,7 @@
 - [ ]  Project: Complete one competition of your choice from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
 - [ ]  Project: Complete one competition of your choice from [Driven Data](https://www.drivendata.org/competitions/)
 
-## Tier 5 - Bonus Round - Advanced
+## Tier 5 - Advanced
 - [ ]  Course: [Topics in Mathematics of Data Science](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-of-data-science-fall-2015/index.htm)
 - [ ]  Book: [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [ ]  Book: [Bayesian Methods in the Search for MH370](https://link.springer.com/book/10.1007/978-981-10-0379-0) 
