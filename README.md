@@ -1,30 +1,10 @@
 # Data Science
 ##### Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence.
 
-Suggestions:
-- Do all courses/books in order
-- Don't skip anything (if you're tempted to skip a course because you think you already know it, take the final, if you pass, then skip).
-- Projects are listed at the end of each Tier, you should consider them assigned at the beginning of the Tier, and due at the end - so work on them alongside the books and courses as you work your way through a Tier.
-- For any project, feel free to use Python or R. Python is introduced earlier in the guide so it's likely you'll use it nearly exclusively for the earlier projects. It would be a good idea to lean more heavily on R in the latter projects to ensure you have substantial practice in both.
-- Make a point of building your GitHub profile during your study so that over time you show a history of data science projects.
-- If you haven't already, begin blogging about what you're learning on Medium (or elsewhere). Try to focus on tutorials for topics you've learned well that might be helpful to others.
-
-**Note:** All items should have a free to audit option. There are two Algorithms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
-
-## Blogs
-Bookmark these blogs and try to read at least one article from one of them per week.
-- [Data School](http://www.dataschool.io/)
-- [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
-- [No Free Hunch - Kaggle's blog](http://blog.kaggle.com/)
-- [Pete Warden's Blog](https://petewarden.com/)
-- [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
-- [Data Science Central](http://www.datasciencecentral.com/)
-- [R Bloggers](https://www.r-bloggers.com/)
-
 ## Tier 0 - prep
 - [ ]  Course: [Question Everything: Scientific Thinking in Real Life](https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-1) 
-- [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
-- [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
+- [ ]  Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
+- [ ]  Course: [Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
 - [ ]  Course Series: [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ]  Book: [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
@@ -34,8 +14,8 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 1 - foundations
-- [ ]  Course: [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - note: this course is only intermittently offered, sign up at the start of the Tier, then proceed to the other courses and return to this one when it's in session 
-- [ ]  Course: [MM220P: MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) - note: this course is only intermittently offered, sign up at the start of the Tier, then proceed to the other courses and return to this one when it's in session 
+- [ ]  Course: [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+- [ ]  Course: [MM220P: MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
 - [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
 - [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
@@ -46,7 +26,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ]  Course: [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/index.htm) 
 - [ ]  Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
-- [ ]  Book: [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)  
+- [ ]  Book: [An Introduction to Statistical Learning](https://statlearning.com/)  
 - [ ]  Course: [Principles of Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x-0) 
 - [ ]  Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) 
 - [ ]  Course: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
@@ -59,7 +39,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 2 - develop more expertise
-- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermittently offered, sign up at the start of Tier 2, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about)
 - [ ]  Book: [Biology](https://openstax.org/details/books/biology) 
 - [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 - [ ]  Book: [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) 
@@ -72,7 +52,11 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [ ]  Course: [DNA: Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code-ricex-bioc300-2x-1) 
 - [ ]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) 
 - [ ]  Book: [Think Complexity](http://greenteapress.com/complexity2/thinkcomplexity2.pdf)
-- [ ]  Course: [Database Mini-Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) - take all mini-courses
+- [ ]  Course: [Databases: Relational Databases and SQL](https://www.edx.org/course/advanced-topics-in-sql)
+- [ ]  Course: [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
+- [ ]  Course: [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)
+- [ ]  Course: [Databases: OLAP and Recursion](https://www.edx.org/course/olap-and-recursion)
+- [ ]  Course: [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql)
 - [ ]  Course: [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) 
 - [ ]  Project: Do 20 problems (of your choice) on [Rosalind](http://rosalind.info/problems/locations/)
 - [ ]  Project: [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
@@ -82,13 +66,14 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [ ]  Project: Complete one [Bot Programming Competition on CodinGame](https://www.codingame.com/multiplayer/bot-programming)
 
 ## Tier 3 - add more rigor
-- [ ]  Course: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) (Python - requires book purchase) or [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) and [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) (Java)
-- [ ]  Course: [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) (Python - requires book purchase) or [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)  (Java)
+- [ ]  Course: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+- [ ]  Course: [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 - [ ]  Book: [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
 - [ ]  Course: [Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) 
 - [ ]  Course: [Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) 
 - [ ]  Course Series: [Big Data Path on Cognitive Class](https://cognitiveclass.ai/learn/big-data/)
-- [ ]  Course: [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+- [ ]  Course: [Convex Optimization I](https://see.stanford.edu/Course/EE364A)
+- [ ]  Course: [Convex Optimization II](http://web.stanford.edu/class/ee364b/)
 - [ ]  Book: [R for Data Science](http://r4ds.had.co.nz/) 
 - [ ]  Course: [Probability: Basic Concepts & Discrete Random Variables](https://www.edx.org/course/probability-basic-concepts-discrete-purduex-416-1x-1) 
 - [ ]  Course Series: [Hadoop Path on Cognitive Class](https://cognitiveclass.ai/learn/hadoop/)
@@ -106,7 +91,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 ## Tier 4 - practical applications
 
-- [ ]  Book: [Machine Learning with R](https://vk.com/doc168073_317718618?hash=90cd2a2976f079b1e7&dl=43db8b80daa2831cc1) 
+- [ ]  Book: [Machine Learning with R](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf) 
 - [ ]  Course: [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-harvardx-ph525-1x-0)
 - [ ]  Course: [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-1) 
 - [ ]  Book: [The Quest for Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
