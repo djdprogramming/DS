@@ -1,4 +1,4 @@
-# Data Science
+# A Comprehensive Data Science Curriculum
 ##### Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence.
 
 ###### Thank you P1xt!
